@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Bshra kousar**. I’m an Aspiring Data Engineer. 
+Hi there! I'm **Bushra kousar**. I’m an Aspiring Data Analyst. 
